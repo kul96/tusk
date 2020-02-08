@@ -1,0 +1,5 @@
+open MC app
+put order
+ or
+goto the MC shop
+put order
